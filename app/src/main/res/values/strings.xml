@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">lab6</string>
+    <string name="send">send</string>
+    <string name="channel_name">FPT Polytechnic</string>
+    <string name="channel_description">Thông báo mới!</string>
+    <string name="start">start services</string>
+    <string name="stop">stop services</string>
+    <string name="start_background">start background services</string>
+</resources>
